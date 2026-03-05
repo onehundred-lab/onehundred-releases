@@ -6,11 +6,14 @@
 
 ## UMED - 의료비 영수증 자동 정리
 
-카메라로 의료비 영수증을 촬영하면 OCR로 자동 인식하여 엑셀로 내보내는 앱
-
 📷 영수증 촬영 → 🔍 자동 인식 → 📊 엑셀 내보내기
 
-👉 [최신 버전 다운로드](../../releases/latest)
+### 다운로드
+
+| 버전 | 설명 | 다운로드 |
+|------|------|----------|
+| v3.0.0 | 📄 PDF 포함 버전 (카메라 + 국세청 간소화 PDF 의료비 추출) | [다운로드](https://github.com/onehundred-lab/onehundred-releases/releases/download/umed-v3.0.0/UMED-v3.0.apk) |
+| v2.2.0 | 📷 카메라 버전 (카메라 OCR 영수증 인식) | [다운로드](https://github.com/onehundred-lab/onehundred-releases/releases/download/umed-v2.2.0/UMED-v2.2.apk) |
 
 ### 설치 방법
 1. 위 링크에서 APK 다운로드
