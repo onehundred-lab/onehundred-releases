@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- 검정 배경 -->
+  <circle cx="100" cy="100" r="95" fill="#111111" />
+  <!-- 💯 스타일: 빨간 100 + 밑줄 두 줄 -->
+  <text x="100" y="108" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="68" font-weight="900" fill="#FF3B30" transform="rotate(-8, 100, 108)">100</text>
+  <!-- 밑줄 두 줄 -->
+  <line x1="52" y1="128" x2="148" y2="120" stroke="#FF3B30" stroke-width="5" stroke-linecap="round" />
+  <line x1="52" y1="140" x2="148" y2="132" stroke="#FF3B30" stroke-width="5" stroke-linecap="round" />
+  <!-- 작은 불꽃 이펙트 -->
+  <circle cx="150" cy="68" r="4" fill="#FF6B00" opacity="0.8" />
+  <circle cx="142" cy="58" r="3" fill="#FFD700" opacity="0.7" />
+  <circle cx="155" cy="76" r="2.5" fill="#FF3B30" opacity="0.6" />
+</svg>

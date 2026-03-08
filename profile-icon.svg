@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- 검정 배경 -->
+  <rect width="200" height="200" fill="#0d0d0d" rx="30" />
+
+  <!-- 정육면체 윗면 -->
+  <polygon points="100,30 170,65 100,100 30,65" fill="#FFE44D" />
+
+  <!-- 정육면체 왼쪽면 -->
+  <polygon points="30,65 100,100 100,170 30,135" fill="#FFD700" />
+
+  <!-- 정육면체 오른쪽면 -->
+  <polygon points="170,65 100,100 100,170 170,135" fill="#D4A800" />
+</svg>
